@@ -1,0 +1,43 @@
+body {
+    
+    background-color: red;
+
+}
+h1 {
+    z-index: 5;
+    color: white;
+    font-size: 100px;
+    font-family: 'Teko', sans-serif;
+    text-align: center;
+
+}
+
+html, body {
+    z-index: 1;
+    background-image: url("https://i.redd.it/cs6rwfc2z0921.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+}
+
+p {
+    font-family: "Teko", sans-serif;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+}
+.video {
+    z-index: 10;
+}
+h2 {
+    text-align: center;
+    color: white;
+}
+h3 {
+
+    color: white;
+}
+.Wiki {
+    position: relative;
+    right: 300;
+}
